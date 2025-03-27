@@ -2,11 +2,11 @@
 
  * bar.js
  * simple, elegant bar chart library
- * {date} - version 1.0
- * {url}
- * Copyright 2025 {your name}
+ * 27/03/2025 - version 1.0
+ * https://github.com/ElliotKnockIP/bar-chart-js
+ * Copyright 2025 EK IP
  * Released under the MIT license
- * {license url}
+ * https://github.com/ElliotKnockIP/bar-chart-js/blob/main/LICENSE.md
  
  */
 
